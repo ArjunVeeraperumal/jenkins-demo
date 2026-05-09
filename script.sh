@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "second Build Started"
+echo "Third Build Started"
 
 echo "Current Date:"
 date
