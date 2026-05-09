@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Jenkins Build Started"
+echo "second Build Started"
 
 echo "Current Date:"
 date
